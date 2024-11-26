@@ -3,7 +3,7 @@
 Existant : 
 - Icetool plugin pour calculer les températures de surface : https://github.com/Art-Ev/ICEtool/tree/main
 avantage : interface accessible, calculs précis
-inconvénients : beaucoup de données à fournir en entrée, besoin de base de données sql.
+inconvénients : beaucoup de données à fournir en entrée, besoin de se connecter a leur base de données sql pour les requêtes.
 - services web de localisation de risques ( inondations, vagues de chaleur)
 
 sources de données : 
