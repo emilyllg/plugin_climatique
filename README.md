@@ -20,8 +20,16 @@ ILOTS DE CHALEUR
 
 VEGETATION 
  
-INONDATION
+INONDATION alearg : 
+depuis source data brgm 
 - REMNAPPE_FR : carte nationale des remontée de nappes
 - MASQ_EAIP : enveloppe approchée des inondations potentielles cours d'eau et surbmersion marine de plus d'un hectare
-- 
+depuis https://georisques.gouv.fr/services :
+- ALEA_synth_01 : Surface inondable - Aléa débordement de cours d'eau fréquent ou décennal - France métropolitaine - Rapportage 2020
+- meme chose "avec prise en compte du changement climatique"; "moyen ou decennal"; "rare ou millenal";
+- Surface inondable - Aléa ruissellement fréquent ou décennal - France métropolitaine - Rapportage 2020
+- Surface inondable - Aléa submersion moyen ou centennal - France métropolitaine - Rapportage 2020
+- Hauteurs d'eau - Aléa débordement de cours d'eau rare ou millénial - France métropolitaine - Rapportage 2020
+- Zones soustraites à l'aléa inondation - France métropolitaine - Rapportage 2020
+- Zones de sur-aléa inondation - France métropolitaine -raportage 2020
 
