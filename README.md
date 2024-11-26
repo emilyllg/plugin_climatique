@@ -4,7 +4,7 @@ Existant :
 - Icetool plugin pour calculer les températures de surface : https://github.com/Art-Ev/ICEtool/tree/main
 avantage : interface accessible, calculs précis
 inconvénients : beaucoup de données à fournir en entrée, besoin de se connecter a leur base de données sql pour les requêtes.
-- services web de localisation de risques ( inondations, vagues de chaleur)
+- services web de localisation de risques ( inondations, vagues de chaleur) : https://georisques.gouv.fr/
 
 sources de données : 
 
@@ -16,6 +16,12 @@ ILOTS DE CHALEUR
 - attributs couche ilot :https://www.institutparisregion.fr/fileadmin/DataStorage/IauEtVous/CartesEtDonnees/cartesetdonnees/opendata/MetaPDF/LCZ_ICU2022.pdf
 - avec note vulj/vuln finale de vulnerabilité à une vague de chaleur basée sur ICU potentiel la nuit.
 
-VEGETATION 
 
+
+VEGETATION 
+ 
 INONDATION
+- REMNAPPE_FR : carte nationale des remontée de nappes
+- MASQ_EAIP : enveloppe approchée des inondations potentielles cours d'eau et surbmersion marine de plus d'un hectare
+- 
+
