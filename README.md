@@ -14,7 +14,7 @@ ILOTS DE CHALEUR
 - liste indicateurs : https://www.institutparisregion.fr/fileadmin/DataStorage/IauEtVous/CartesEtDonnees/cartesetdonnees/opendata/MetaPDF/ICU_LCZ_Alea_Vuln_Champs_2022.pdf
 
 - attributs couche ilot :https://www.institutparisregion.fr/fileadmin/DataStorage/IauEtVous/CartesEtDonnees/cartesetdonnees/opendata/MetaPDF/LCZ_ICU2022.pdf
-- avec note vulj/vuln finale de vulnerabilité à une vague de chaleur basée sur ICU potentiel la nuit.
+- avec note de vulnerabilité de jour et nuit aux vagues de chaleurs basée sur somme des autres aléas des IMU : vulj/vuln
 
 
 
