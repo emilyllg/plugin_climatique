@@ -16,6 +16,8 @@ ILOTS DE CHALEUR
 - attributs couche ilot :https://www.institutparisregion.fr/fileadmin/DataStorage/IauEtVous/CartesEtDonnees/cartesetdonnees/opendata/MetaPDF/LCZ_ICU2022.pdf
 - avec note de vulnerabilité de jour et nuit aux vagues de chaleurs basée sur somme des autres aléas des IMU : vulj/vuln
 
+- vulnerabilitemax5 : where ( vuln and vulj)>5.
+
 
 
 VEGETATION 
