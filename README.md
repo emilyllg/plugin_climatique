@@ -19,7 +19,7 @@ ILOTS DE CHALEUR
 
 
 VEGETATION 
-- Déjà pris en compte pour ilôt de chaleur mais voir si ajouter une couche de visualisation seule des espaces verts et de leurs aports ( ilôts de fraicheur).
+- Déjà pris en compte pour ilôt de chaleur mais voir si ajouter une couche de visualisation seule des espaces verts et de leurs apports ( ilôts de fraicheur).
  
 INONDATION alearg : 
 depuis source data brgm 
