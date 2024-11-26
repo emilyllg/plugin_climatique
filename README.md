@@ -34,3 +34,5 @@ depuis https://georisques.gouv.fr/services :
 - Zones soustraites à l'aléa inondation - France métropolitaine - Rapportage 2020
 - Zones de sur-aléa inondation - France métropolitaine -raportage 2020
 
+  METADATA DES COUCHES
+
