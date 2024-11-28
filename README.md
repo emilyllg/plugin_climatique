@@ -4,6 +4,7 @@ Existant :
 - Icetool plugin pour calculer les températures de surface : https://github.com/Art-Ev/ICEtool/tree/main
 avantage : interface accessible, calculs précis
 inconvénients : beaucoup de données à fournir en entrée, besoin de se connecter a leur base de données sql pour les requêtes.
+- plugin diaclimap : https://www.cerema.fr/system/files/documents/2017/11/projet_diaclimap_cle1a3fca.pdf
 - services web de localisation de risques ( inondations, vagues de chaleur) : https://georisques.gouv.fr/
 
 sources de données : 
