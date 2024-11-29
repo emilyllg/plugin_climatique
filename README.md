@@ -26,8 +26,11 @@ VEGETATION
 - indicateur connectivité espaces naturels
 - état de santé de la végétation et évolution
  
-INONDATION alearg : 
-depuis source data brgm 
+INONDATION  : 
+
+- risques pluviales/remontées de nappes/permeabilité des sols 
+- risques fluviales
+alearg depuis source data brgm 
 - REMNAPPE_FR : carte nationale des remontée de nappes
 - MASQ_EAIP : enveloppe approchée des inondations potentielles cours d'eau et surbmersion marine de plus d'un hectare
 depuis https://georisques.gouv.fr/services :
