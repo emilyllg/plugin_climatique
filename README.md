@@ -23,6 +23,8 @@ ILOTS DE CHALEUR
 
 VEGETATION 
 - Déjà pris en compte pour ilôt de chaleur mais voir si ajouter une couche de visualisation seule des espaces verts et de leurs apports ( ilôts de fraicheur).
+- indicateur connectivité espaces naturels
+- état de santé de la végétation et évolution
  
 INONDATION alearg : 
 depuis source data brgm 
