@@ -27,7 +27,8 @@ VEGETATION
 - état de santé de la végétation et évolution
  
 INONDATION  : 
-
+- base de données historique sur les inondations : https://www.georisques.gouv.fr/base-de-donnees/BDHI
+  
 - risques pluviales/remontées de nappes/permeabilité des sols 
 - risques fluviales
 alearg depuis source data brgm 
