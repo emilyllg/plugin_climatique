@@ -6,8 +6,9 @@ avantage : interface accessible, calculs précis
 inconvénients : beaucoup de données à fournir en entrée, besoin de se connecter a leur base de données sql pour les requêtes.
 - outil collaboratif diaclimap, pas disponible depuis le centre d'extensions qgis: https://www.cerema.fr/system/files/documents/2017/11/projet_diaclimap_cle1a3fca.pdf
 - services web de localisation de risques ( inondations, vagues de chaleur) : https://georisques.gouv.fr/
+- Etude évolution ICU en IDF : Moins d’icu comparaison 2021 2023 : https://www.construction21.org/france/articles/h/reduction-des-icu-sur-paris-entre-2020-et-2023.html , ICU 2021 reste introuvable.
 
-sources de données : 
+sources de données :  
 
 ILOTS DE CHALEUR
 - Geojson à télécharger en local ilôts de chaleurs : https://data.iledefrance.fr/explore/dataset/ilots-de-chaleur-urbains-icu-classification-des-imu-en-zone-climatique-locale-lc/export/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6Imlsb3RzLWRlLWNoYWxldXItdXJiYWlucy1pY3UtY2xhc3NpZmljYXRpb24tZGVzLWltdS1lbi16b25lLWNsaW1hdGlxdWUtbG9jYWxlLWxjIiwib3B0aW9ucyI6e319LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJvYmplY3RpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNlNzRjM2MifV0sInhBeGlzIjoib2JqZWN0aWQiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&location=9,48.68404,2.50266&basemap=jawg.sunny
